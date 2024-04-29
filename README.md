@@ -1,1 +1,3 @@
 # AppReview
+Coming soon...
+A way to review companies' application and interview practices.
